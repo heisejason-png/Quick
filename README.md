@@ -927,3 +927,4 @@ including [GitHub](https://github.com/github) and
 
 Apache 2.0 license. See the `LICENSE` file for details.
 
+Created by Jason Scott Heise
